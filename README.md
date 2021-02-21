@@ -1,6 +1,6 @@
 <br />
   <p align="center">
-    <img src="Untitled_Artwork 3.png" alt="Welcome" width="700" height="300"></a>
+    <img src="Untitled_Artwork 3.png" alt="Welcome" width="800" height="200"></a>
   </p>
 </p>
 
