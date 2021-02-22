@@ -5,7 +5,7 @@
 
 <h4>Contact</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Christina.Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/csantos91/)](https://www.linkedin.com/in/csantos91/)
+[![Linkedin Badge](https://img.shields.io/badge/-Christina.Santos-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/csantos91/)](https://www.linkedin.com/in/csantos91/)
 
 <h4>Technologies & Tools</h4>
 <p>
