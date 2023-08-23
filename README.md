@@ -7,6 +7,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Christina.Santos-black?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/csantos91/)](https://www.linkedin.com/in/csantos91/)
 
+<h4>Certifications</h4>
+<p>
+- AWS SysOps Administrator Associate<br />
+- AWS Solution Architect Associate<br />
+- AWS Developer Associate<br />
+- GCP Associate Cloud Engineer<br />
+</p>
+
 <h4>Technologies & Tools</h4>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
