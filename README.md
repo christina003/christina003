@@ -18,10 +18,13 @@
 <h4>Technologies & Tools</h4>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
+<img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
 <img alt="css" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" />
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=Webpack" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express"/>
@@ -31,6 +34,8 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
 <img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" />
+<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+
 
 </p>
 
